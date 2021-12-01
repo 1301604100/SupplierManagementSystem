@@ -14,6 +14,8 @@
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="format-detection" content="telephone=no">
         <link rel="stylesheet" href="${pageContext.request.contextPath}/lib/layui-v2.5.5/css/layui.css" media="all">
+        <link rel="shortcut icon" href="${pageContext.request.contextPath}/Public/img/favicon.ico" >
+
     </head>
 
     <style>

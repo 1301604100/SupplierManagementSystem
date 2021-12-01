@@ -291,7 +291,7 @@
                 <%--        版本        --%>
                 <div class="layui-col-md12">
                     <div class="layui-card">
-                        <div class="layui-card-header"><i class="fa fa-fire icon"></i>版本信息</div>
+                        <div class="layui-card-header"><i class="fa fa-fire icon"></i>  &nbsp;版本信息</div>
                         <div class="layui-card-body layui-text">
                             <table class="layui-table">
                                 <colgroup>
@@ -300,42 +300,50 @@
                                 </colgroup>
                                 <tbody>
                                 <tr>
-                                    <td>系统名称</td>
+                                    <td><span class="layui-badge layui-bg-green">系统名称</span></td>
                                     <td>
-                                        供应商管理系统
+                                        <span class="layui-badge" style="background-color: #5FB878">供应商管理系统</span>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>当前版本</td>
-                                    <td>v1.0.0</td>
+                                    <td><span class="layui-badge layui-bg-blue">当前版本</span></td>
+                                    <td><span class="layui-badge layui-bg-orange">v1.0.0</span></td>
                                 </tr>
                                 <tr>
-                                    <td>主要特色</td>
-                                    <td>清爽 / 极简</td>
+                                    <td><span class="layui-badge" style="background-color:#2F4056;">主要特色</span></td>
+                                    <td><span class="layui-badge layui-bg-blue">清爽 / 极简</span></td>
                                 </tr>
                                 <tr>
-                                    <td>Gitee</td>
+                                    <td><span class="layui-badge">Gitee</span></td>
                                     <td style="padding-bottom: 0;">
                                         <div class="layui-btn-container">
-                                            <a href="https://gitee.com/zhongshaofa/layuimini" target="_blank"
+                                            <a href="https://gitee.com/kary2/supplier-management" target="_blank"
                                                style="margin-right: 15px"><img
-                                                    src="https://gitee.com/zhongshaofa/layuimini/badge/star.svg?theme=dark"
+                                                    src="https://gitee.com/kary2/supplier-management/badge/star.svg?theme=dark"
                                                     alt="star"></a>
-                                            <a href="https://gitee.com/zhongshaofa/layuimini"
-                                               target="_blank"><img
-                                                    src="https://gitee.com/zhongshaofa/layuimini/badge/fork.svg?theme=dark"
+                                            <a href="https://gitee.com/kary2/supplier-management"
+                                               target="_blank" style="margin-right: 15px"><img
+                                                    src="https://gitee.com/kary2/supplier-management/badge/fork.svg?theme=dark"
+                                                    alt="fork"></a>
+                                            <a href="https://gitee.com/kary2/supplier-management"
+                                               target="_blank" style="margin-right: 15px"><img
+                                                    src="https://img.shields.io/badge/Author-郭锴锐-blue.svg"
+                                                    alt="fork"></a>
+                                            <a href="https://gitee.com/kary2/supplier-management"
+                                               target="_blank" style="margin-right: 15px"><img
+                                                    src="https://img.shields.io/badge/version-v1.0-brightgreen.svg"
                                                     alt="fork"></a>
                                         </div>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>Github</td>
+                                    <td><span class="layui-badge layui-bg-black">Github</span></td>
                                     <td style="padding-bottom: 0;">
                                         <div class="layui-btn-container">
-                                            <iframe src="https://ghbtns.com/github-btn.html?user=zhongshaofa&repo=layuimini&type=star&count=true"
+                                            <iframe src="https://ghbtns.com/github-btn.html?user=1301604100&repo=SupplierManagementSystem&type=star&count=true"
                                                     frameborder="0" scrolling="0" width="100px"
                                                     height="20px"></iframe>
-                                            <iframe src="https://ghbtns.com/github-btn.html?user=zhongshaofa&repo=layuimini&type=fork&count=true"
+                                            <iframe src="https://ghbtns.com/github-btn.html?user=1301604100&repo=SupplierManagementSystem&type=fork&count=true"
                                                     frameborder="0" scrolling="0" width="100px"
                                                     height="20px"></iframe>
                                         </div>

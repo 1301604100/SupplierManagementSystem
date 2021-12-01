@@ -22,6 +22,7 @@
 
         <link rel="stylesheet" href="${pageContext.request.contextPath}/lib/font-awesome-4.7.0/css/font-awesome.min.css"
               media="all">
+        <link rel="shortcut icon" href="${pageContext.request.contextPath}/Public/img/favicon.ico" >
         <script>
             $(function () {
                 $('.nav a').click(function () {
